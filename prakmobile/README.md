@@ -9,8 +9,6 @@ Ketika dalam mengisi form login terdapat username dan/ password yang salah atau 
 
 <img src="assets/login.png" alt="Login" width="600"/>
 
-<img src="assets/gagal.png" alt="Alert" width="600"/>
-
 ## 3. Mengisi login dengan username dan password yang sesuai
 Berikut adalah pengisian username dan password yang sesuai dengan database, yaitu
 username : tes
